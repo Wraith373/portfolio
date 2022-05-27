@@ -82,7 +82,11 @@ a:hover {
 
 #pic{
     margin: 20px 150px 10px 10px;
-} 
+}
+
+#pic img{
+    width: 70%;
+}
 
 .about{
     width: 100%;
@@ -165,7 +169,7 @@ a:hover {
     font-size: 25px;
 }
 
-#picl{
+#pic1{
     width: 20%;
     
 }
@@ -177,9 +181,8 @@ a:hover {
     
 }
 
-#picl img{
-    height: 200px;
-    width: 200px;
+#pic1 img{
+    width: 50;
 }
 
 .sum{
